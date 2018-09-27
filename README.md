@@ -8,6 +8,10 @@ The physics of the system is general, meaning you can add any body of any initia
 - Control how zoomed in or out you are from the solar system
 - Pan around the solar system with your mouse
 
+## How to run
+- Compile the .java files by running `javac src/*.java` in the directory where `src/` is located.
+- Run the java file by running: `java src/SolarSystem`.
+
 ### Example
 ![alt text](https://raw.githubusercontent.com/Usefulmaths/Solar-System-Environment/master/img/solar_system.png)
 

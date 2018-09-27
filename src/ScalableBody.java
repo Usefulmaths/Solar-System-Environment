@@ -1,4 +1,4 @@
-package module9;
+package src;
 
 /**
  * ScalableBody class takes in a Body object and a Dimensions object. Allows

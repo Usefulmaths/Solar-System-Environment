@@ -1,6 +1,6 @@
-package module9;
+package src;
 
-import static module9.Constants.MASS_EARTH;
+import static src.Constants.MASS_EARTH;
 
 import java.util.ArrayList;
 import java.util.HashMap;

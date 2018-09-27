@@ -1,7 +1,7 @@
-package module9;
+package src;
 
-import static module9.Constants.AU;
-import static module9.Constants.MASS_EARTH;
+import static src.Constants.AU;
+import static src.Constants.MASS_EARTH;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

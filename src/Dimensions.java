@@ -1,4 +1,4 @@
-package module9;
+package src;
 
 /**
  * Dimensions class deals with the height and width. Used when scaling images.

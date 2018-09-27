@@ -1,4 +1,4 @@
-package module9;
+package src;
 
 import java.util.function.IntConsumer;
 

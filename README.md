@@ -7,6 +7,7 @@ The physics of the system is general, meaning you can add any body with any init
 ## Features
 - Control how zoomed in or out you are from the solar system
 - Pan around the solar system with your mouse
+- Toggle name display
 
 ## How to run
 - Compile the .java files by running `javac ./src/*.java` in the directory where `src/` is located.

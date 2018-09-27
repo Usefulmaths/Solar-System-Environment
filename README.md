@@ -1,6 +1,6 @@
 # Solar-System-Environment
 
-An interactive playground that simulates the physical dynamics of our solar system. More precisely, it uses Newton's law of gravitation to calculate the force between all bodies and therefore how their movement is governed.
+An interactive playground that simulates the physical dynamics of our solar system. More precisely, it uses Newton's law of gravitation to calculate the forces between all bodies and therefore how their movement is governed.
 
 The physics of the system is general, meaning you can add any body of any initial position, velocity, and mass within the code to see the interactions of these systems behave.
 
@@ -9,6 +9,6 @@ The physics of the system is general, meaning you can add any body of any initia
 - Pan around the solar system with your mouse
 
 ### Example
-![alt text](https://raw.githubusercontent.com/Usefulmaths/Solar-System-Environment/img/solar_system.png)
+![alt text](https://raw.githubusercontent.com/Usefulmaths/Solar-System-Environment/master/img/solar_system.png)
 
 

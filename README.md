@@ -9,6 +9,6 @@ The physics of the system is general, meaning you can add any body of any initia
 - Pan around the solar system with your mouse
 
 ### Example
-![alt text](https://raw.githubusercontent.com/Usefulmaths/Solar-Syste-Environment/img/solar_system.png)
+![alt text](https://raw.githubusercontent.com/Usefulmaths/Solar-System-Environment/img/solar_system.png)
 
 

@@ -2,7 +2,7 @@
 
 An interactive playground that simulates the physical dynamics of our solar system. More precisely, it uses Newton's law of gravitation to calculate the forces between all bodies and therefore how their movement is governed.
 
-The physics of the system is general, meaning you can add any body of any initial position, velocity, and mass within the code to see the interactions of these systems behave.
+The physics of the system is general, meaning you can add any body with any initial position, velocity, and mass within the code to see how the dynamics of the system behaves.
 
 ## Features
 - Control how zoomed in or out you are from the solar system
